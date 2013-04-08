@@ -1,3 +1,3 @@
-##jquery-bundle
+## jquery-bundle
 
-A new repo
+Basic stuff that any jquery based app might need.
